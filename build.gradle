@@ -1,0 +1,18 @@
+plugins {
+    id 'java'
+}
+
+group = 'com.test_jdbc'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation group: 'org.postgresql', name: 'postgresql', version: '42.6.0'
+}
+
+test {
+    useJUnitPlatform()
+}

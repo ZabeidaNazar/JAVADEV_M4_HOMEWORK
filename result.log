@@ -1,0 +1,91 @@
+MaxProjectCountClient{name='Анатолій', projectCount=5}
+MaxProjectCountClient{name='Марина', projectCount=5}
+MaxProjectCountWorker{name='Лариса', projectCount=7}
+MaxProjectCountWorker{name='Людмила', projectCount=7}
+LongestProject{name='Оптимізація системи енергозбереження', month_count=48}
+LongestProject{name='Розробка платформи для транспортування', month_count=48}
+MaxSalaryWorker{name='Оксана', salary=60000}
+MaxSalaryWorker{name='Тетяна', salary=60000}
+YoungestEldestWorkers{type='OLDEST', name='Лариса', birthday=1974-09-07}
+YoungestEldestWorkers{type='OLDEST', name='Людмила', birthday=1974-09-07}
+YoungestEldestWorkers{type='YOUNGEST', name='Роман', birthday=2000-01-05}
+1 - ProjectPrices{name='Розробка інтернет-магазину', price=2265900}
+2 - ProjectPrices{name='Оптимізація системи енергозбереження', price=2011200}
+3 - ProjectPrices{name='Розробка інфраструктури', price=1842400}
+4 - ProjectPrices{name='Аналіз даних клієнтів', price=1704300}
+5 - ProjectPrices{name='Розробка системи рекомендацій', price=1638900}
+6 - ProjectPrices{name='Впровадження системи автоматизації', price=1415700}
+7 - ProjectPrices{name='Оптимізація процесу виробництва', price=1383900}
+8 - ProjectPrices{name='Розробка платформи для електронного навчання', price=1288000}
+9 - ProjectPrices{name='Створення відеокурсів', price=1215900}
+10 - ProjectPrices{name='Розробка системи голосового управління', price=1175350}
+11 - ProjectPrices{name='Розробка платформи для транспортування', price=1070400}
+12 - ProjectPrices{name='Система управління водопостачанням', price=1048500}
+13 - ProjectPrices{name='Розробка ігрового додатку', price=1024500}
+14 - ProjectPrices{name='Створення інноваційного медичного обладнання', price=943000}
+15 - ProjectPrices{name='Розробка системи інтернету речей', price=889000}
+16 - ProjectPrices{name='Оптимізація логістики поставок', price=884000}
+17 - ProjectPrices{name='Розробка додатку для митного контролю', price=859200}
+18 - ProjectPrices{name='Розробка медіа-платформи', price=799500}
+19 - ProjectPrices{name='Розробка інноваційного продукту', price=770550}
+20 - ProjectPrices{name='Розробка віртуального туристичного гіда', price=770000}
+21 - ProjectPrices{name='Розробка додатку для креативного мистецтва', price=759000}
+22 - ProjectPrices{name='Створення ігор віртуальної реальності', price=750000}
+23 - ProjectPrices{name='Створення системи роботи з клієнтами', price=750000}
+24 - ProjectPrices{name='Створення екологічного автомобіля', price=731000}
+25 - ProjectPrices{name='Створення графічного дизайну', price=728250}
+26 - ProjectPrices{name='Створення мультимедійних презентацій', price=690400}
+27 - ProjectPrices{name='Розробка додатку для космічних спостережень', price=665000}
+28 - ProjectPrices{name='Створення додатку для кулінарії', price=622700}
+29 - ProjectPrices{name='Створення медичної системи зв'язку', price=596200}
+30 - ProjectPrices{name='Створення онлайн-платформи для освіти', price=594000}
+31 - ProjectPrices{name='Створення додатку для мовлення', price=589000}
+32 - ProjectPrices{name='Розробка системи аналізу зображень', price=585200}
+33 - ProjectPrices{name='Розробка системи інтернет-маркетингу', price=576000}
+34 - ProjectPrices{name='Створення веб-сайту для ресторану', price=532000}
+35 - ProjectPrices{name='Розробка мобільної додатку', price=526400}
+36 - ProjectPrices{name='Розробка екологічних технологій', price=495000}
+37 - ProjectPrices{name='Створення маркетингової кампанії', price=480700}
+38 - ProjectPrices{name='Впровадження системи штучного інтелекту', price=472550}
+39 - ProjectPrices{name='Впровадження штучного інтелекту', price=454500}
+40 - ProjectPrices{name='Створення віртуальної реальності', price=442000}
+41 - ProjectPrices{name='Оптимізація системи водоочистки', price=416700}
+42 - ProjectPrices{name='Впровадження системи безпеки', price=407200}
+43 - ProjectPrices{name='Розробка додатку для маркетплейсу', price=378400}
+44 - ProjectPrices{name='Розробка системи відслідковування', price=371600}
+45 - ProjectPrices{name='Створення платформи для гуртожитку', price=360000}
+46 - ProjectPrices{name='Розробка інтерфейсу користувача', price=349300}
+47 - ProjectPrices{name='Створення космічного апарата', price=348400}
+48 - ProjectPrices{name='Розробка програмного забезпечення для управління складом', price=307250}
+49 - ProjectPrices{name='Розробка платформи для криптовалют', price=262600}
+50 - ProjectPrices{name='Розробка додатку для соціальної мережі', price=213450}
+51 - ProjectPrices{name='Розробка платформи для геодезії', price=212400}
+52 - ProjectPrices{name='Розробка альтернативних джерел енергії', price=186900}
+53 - ProjectPrices{name='Розробка додатку для спорту', price=185500}
+54 - ProjectPrices{name='Створення інтернет-форуму', price=180000}
+55 - ProjectPrices{name='Створення додатку для біометрії', price=169400}
+56 - ProjectPrices{name='Оптимізація логістичних процесів', price=165000}
+57 - ProjectPrices{name='Впровадження системи відеоспостереження', price=163800}
+58 - ProjectPrices{name='Оптимізація сільського господарства', price=152600}
+59 - ProjectPrices{name='Створення ефективної системи водоочистки', price=115500}
+60 - ProjectPrices{name='Розробка медичного програмного забезпечення', price=112000}
+61 - ProjectPrices{name='Впровадження системи електронної комерції', price=110000}
+62 - ProjectPrices{name='Розробка голосового асистента', price=104000}
+63 - ProjectPrices{name='Розробка CRM-системи', price=96600}
+64 - ProjectPrices{name='Розробка робототехніки', price=75200}
+65 - ProjectPrices{name='Оптимізація системи керування ресурсами', price=75000}
+66 - ProjectPrices{name='Розробка системи автономного водопостачання', price=75000}
+67 - ProjectPrices{name='Стратегічне планування', price=71250}
+68 - ProjectPrices{name='Аналіз веб-трафіку', price=56000}
+69 - ProjectPrices{name='Розробка системи контролю за датчиками', price=54000}
+70 - ProjectPrices{name='Створення медіа-контенту', price=48000}
+71 - ProjectPrices{name='Розробка системи електронного навчання', price=40000}
+72 - ProjectPrices{name='Впровадження системи геолокації', price=34500}
+73 - ProjectPrices{name='Маркетингові дослідження', price=34200}
+74 - ProjectPrices{name='Впровадження системи автоматизованого тестування', price=28050}
+75 - ProjectPrices{name='Розробка додатку для збірки пазлів', price=20000}
+76 - ProjectPrices{name='Реорганізація бухгалтерського обліку', price=16800}
+77 - ProjectPrices{name='Створення додатку для розваг та розвитку', price=12400}
+78 - ProjectPrices{name='Створення робота для дому', price=9600}
+79 - ProjectPrices{name='Аналіз ринку', price=8100}
+80 - ProjectPrices{name='Розробка медичних досліджень', price=1350}
