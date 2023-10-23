@@ -7,11 +7,8 @@ import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-import java.util.regex.Pattern;
 
 public class SqlParser {
-
-    public static final Pattern queryEndRegex = Pattern.compile(";");
 
     public static List<String> getSqlCommands(String sqlFile, int maxQueryCount) {
         File file = new File(sqlFile);
@@ -28,7 +25,6 @@ public class SqlParser {
         List<String> queryPacks = new ArrayList<>();
         int queryCount = 0;
         StringBuilder queryPack = new StringBuilder();
-//        StringBuilder currentQuery = new StringBuilder();
         String nextLine;
         while (true) {
             if (!scanner.hasNextLine()) {
@@ -45,7 +41,6 @@ public class SqlParser {
                 continue;
             }
             queryPack.append(nextLine).append("\n");
-            //queryEndRegex.matcher(nextLine).matches()
             if (nextLine.charAt(nextLine.length() - 1) == ';' && ++queryCount == maxQueryCount) {
                 queryPacks.add(queryPack.toString());
 

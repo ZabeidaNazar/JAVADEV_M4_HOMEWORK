@@ -13,7 +13,6 @@ public class DatabaseInitService {
         try {
             Statement statement = connection.createStatement();
             for (String queries : SqlParser.getSqlCommands("sql/init_db.sql", 10)) {
-                //System.out.println(queries);
                 int i = statement.executeUpdate(queries);
                 System.out.println("Updated rows: " + i);
             }

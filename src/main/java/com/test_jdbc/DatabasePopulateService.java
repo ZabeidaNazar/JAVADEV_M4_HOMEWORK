@@ -11,7 +11,6 @@ public class DatabasePopulateService {
         try {
             Statement statement = connection.createStatement();
             for (String queries : SqlParser.getSqlCommands("sql/populate_db.sql", 1)) {
-//                System.out.println(queries);
                 int i = statement.executeUpdate(queries);
                 System.out.println("Updated rows: " + i);
             }

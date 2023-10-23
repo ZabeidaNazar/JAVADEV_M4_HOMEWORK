@@ -1,10 +1,10 @@
-DROP TABLE project_worker;
+DROP TABLE IF EXISTS project_worker;
 
-DROP TABLE project;
+DROP TABLE IF EXISTS project;
 
-DROP TABLE client;
+DROP TABLE IF EXISTS client;
 
-DROP TABLE worker;
+DROP TABLE IF EXISTS worker;
 
 --worker - таблиця для працівників. У таблиці мають бути наступні поля:
 --ID - ідентифікатор працівника, ціле число, сурогатний первинний ключ.
